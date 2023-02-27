@@ -20,8 +20,8 @@
         <thead>
         <tr>
             <th class="tg-4fps" colspan="5">Xcompany</th>
-            <th class="tg-4fps">Logged in as Bob</th>
-            <th class="tg-4fps">Logout</th>
+            <th class="tg-4fps">Logged in as <a href="">Bob</a></th>
+            <th class="tg-4fps"><a href="">Logout</a></th>
         </tr>
         </thead>
         <tbody>
