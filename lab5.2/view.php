@@ -5,15 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
 
-        <style type="text/css">
-        .tg  {border-collapse:collapse;border-spacing:0;}
-        .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-        overflow:hidden;padding:20px 20px;word-break:normal;}
-        .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-        font-weight:normal;overflow:hidden;padding:20px 20px;word-break:normal;}
-        .tg .tg-4fps{background-color:#efefef;border-color:#000000;color:#000000;text-align:left;vertical-align:top}
-        .tg .tg-8rsu{background-color:#efefef;border-color:#000000;color:#000000;text-align:center;vertical-align:top}
-        </style>
+        
     </head>
     <body>    
     <table class="tg">
